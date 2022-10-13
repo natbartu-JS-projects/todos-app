@@ -54,3 +54,8 @@ form {
   font-size: 30px;
   padding: 15px 30px;
 }
+
+.todos li.completed {
+  color: #b6b6b6;
+  text-decoration: line-through;
+}
