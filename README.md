@@ -11,4 +11,4 @@ When you right click will delete the specific todo.
 
 **Mobile Version**
 
-![screenshot](assets/todo-app-shot.png)
+![screenshot](assets/screenshot.png)
