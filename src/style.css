@@ -41,6 +41,10 @@ form {
   color: #d5d5d5;
 }
 
+.input:focus {
+  outline-color:#b383e2;
+}
+
 .todos {
   background-color: #fff;
   padding: 0;
