@@ -4,3 +4,11 @@ This application is about a TODOS list. You can enter the todos and click on the
 When you right click will delete the specific todo.
 
 ## Application Preview
+ 
+**Desktop version**
+
+![gif](assets/todos-app-desktop.gif)
+
+**Mobile Version**
+
+![screenshot](assets/todo-app-shot.png)
